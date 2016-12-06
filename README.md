@@ -5,13 +5,16 @@
 よくアニメの画像をアイコンにしているけれども、著作権とか気にし始めるとあんまり広く使っちゃいけないのではないかと  
 思ったので自分用のマークが欲しかった。そこで芸術史の授業でさらっと出てきたモノグラムを作ってみることにした。  
 実際いろいろ考えてみてその中から2つ気に入ったのでそれぞれ形にしてみた。  
+<img src="https://github.com/wmrn/My_monogram/blob/master/data/My monogram.jpg" width="500"/>  
 
 ## こだわったところ
 マークのようなものをイメージしていたので、あんまり複雑な感じにしたくなかった。  
 いい感じに重ねて、2色でいい感じに仕上げた。  
+<img src="https://github.com/wmrn/My_monogram/blob/master/data/myMark.jpg" width="200"/>  
 
 「M」と「W」は逆さまの関係にあるからうまくそれを利用したかった。  
 それをもとに「M」の影として「W」を動かすようなGifを作った。  
+<img src="https://github.com/wmrn/My_monogram/blob/master/data/MyGif.gif" width="380"/>  
 
 ## 感想
 Gifのほうで、まずProcessingで「M」のobjファイルを読み込こんでやろうとした。  
